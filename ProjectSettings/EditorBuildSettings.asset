@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/TutorialLevel1.unity
+    guid: a8ef2b34d8cbe4921a7d32e0d99e2f6b
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level1.unity
+    guid: d6e8becca921e4f13837eef415e9bd0b
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/TutorialLevel2.unity
+    guid: 6ee7c508b87d149b2906c77609ac8bc6
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level2.unity
+    guid: 9b23f13c01bb14813a80893ded422c05
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level3.unity
+    guid: ef3c13c300e384b9599e3efcceb6feb2
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level11.unity
+    guid: 87ae4553d864a45d5a809e154bfe71f8
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level8.unity
+    guid: faedcd9e4a383420b82ad35bd143be75
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level4.unity
+    guid: 3e21ccbd3b17c44aba03803582a1b496
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level6.unity
+    guid: db73fc447e19a4fd5826044436d2e8a7
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level7.unity
+    guid: 745f7cdd8ef7c4df9bc4814cfe0d7194
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level9.unity
+    guid: 70be7216d7ff345e1accdfb10b3f93b0
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level10.unity
+    guid: e549e77a752a7476dab3c8af2b208197
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level12.unity
+    guid: af78c3391da434ad68c1e753341f4dc2
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/TutorialLevel5.unity
+    guid: 7308d941a5b114e30a0623865c257f8c
+  - enabled: 1
+    path: Assets/Scenes/GeometricLevels/Level5.unity
+    guid: 4467e53aa8d0d4ba9901fd3f3629c8d8
+  - enabled: 0
+    path: Assets/Scenes/GeometricLevels/LevelX.unity
+    guid: fb5c918fbd4d54e6785d1263dcb029ad
+  m_configObjects: {}
